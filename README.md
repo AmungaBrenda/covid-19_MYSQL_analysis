@@ -4,6 +4,17 @@ This project is a SQL-based analysis of global COVID-19 data, performed using My
 
 ---
 
+## 📂 Data Sources
+
+The following raw data files are included in this repo:
+
+- `coviddeaths.csv` — daily COVID-19 death counts by country
+- `covidvaccinations.csv` — vaccination data by country and date
+
+Source: [Our World In Data](https://ourworldindata.org/coronavirus)
+
+---
+
 ## 📁 Files
 
 - `Covid.sql`: Main SQL script containing data transformations, CTEs, joins, temp tables, and view creation for COVID analysis.
@@ -63,18 +74,16 @@ The analysis includes:
 
 4. Run the queries step-by-step to explore the data and generate insights.
 
-
+---
 
 🙋‍♂️ Author
 Brenda Amunga
 Self-learning data analyst & software developer | Passionate about insights & storytelling through data
 
-
+---
 
 ⭐️ Show Your Support
 If you found this useful, please give this repo a ⭐️ on GitHub!
-
----
 
 Let me know if you'd like to:
 
